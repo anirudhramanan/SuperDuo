@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-e9b3eac5e4f7f5ba5abafda6e29e12fddb9ff3dc.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-75481795ce6cd2f8dff7927407f46a13b1270079.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/classes-d6fae08079b8247a042c485c34a1f7f55f2c7006.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/classes-f59ac13778b4397087fdce94259bc7e4d88a3821.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Documents/AndroidSdk/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-33e15926573ad5d0a44224a49a16e3bd134168f8.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/core-3.2.0-c18871a7166a28cf6e832918438f8f82a735d9e7.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Anirudh/Desktop/Android/alexandria/app/build/intermediates/pre-dexed/debug/classes-9ede6a6445550896777c07eb8ae09a00db9f99a9.jar" />
+    </item>
+
+</items>
